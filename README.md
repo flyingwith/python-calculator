@@ -11,3 +11,4 @@ New test from feature2
 New test from feature1
 
 Feature
+feature1
