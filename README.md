@@ -2,3 +2,5 @@
 
 Hello World
 Goodbye World
+
+New test from feature2
